@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file alias="unknown">res/application-vnd.oasis.opendocument.text.png</file>
+        <file alias="allitems">res/folder-blue.png</file>
+        <file alias="download">res/go-down.png</file>
+        <file alias="upload">res/go-up.png</file>
+        <file alias="login">res/user-identity.png</file>
+        <file alias="settings">res/configure.png</file>
+        <file alias="quit">res/application-exit.png</file>
+        <file alias="logo">res/drive-text-logo-flat.png</file>
+        <file alias="trash">res/trash.png</file>
+        <file alias="delete">res/edit-delete.png</file>
+        <file alias="downArrow">res/down_arrow.png</file>
+    </qresource>
+</RCC>
